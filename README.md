@@ -50,8 +50,8 @@ I added a feature that allows users to create filled shapes instead of drawing o
 
 **Fill Code:**
 
-![Filled Shapes Code](Screenshots/new_filled_shapes.png)
+![Filled Shapes Code](Screenshots/fill_code.png)
 
 **Result:**
 
-![Filled Shapes Result](Screenshots/filled_shapes_result.png)
+![Filled Shapes Result](Screenshots/fill_function.png)
