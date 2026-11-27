@@ -86,3 +86,16 @@ I improved the existing Clear function by adding a confirmation dialog before re
 **Result:**
 
 ![Clear Confirmation Result](Screenshots/clear_confirmation.png)
+
+
+### ✓ Quick Colors
+
+I added Quick Colors buttons to make color selection easier and faster. In the original application, users had to click the Choose Color button and select a color from the color picker. With this improvement, users can now select commonly used colors directly from the toolbar, such as Black, Red, Blue, Green, Yellow, and Purple.
+
+**Updated Code:**
+
+![Quick Colors Code](Screenshots/quick_color_code.png)
+
+**Result:**
+
+![Quick Colors Result](Screenshots/quick_color.png)
