@@ -1,52 +1,48 @@
-
 # Paint_Application
 
 ## REQUIREMENTS COMPLETED:
 
-Whole UI Design:
-![Whole Code](Screenshots/Screenshot%202026-11-27%20015557.png)
+### Whole UI Design:
 
+![Whole Code](Screenshots/Screenshot%202026-11-27%20015557.png)
 
 ### ✓ Bigger Brush Range
 
-What I did here was increase the maximum brush size from 30 to 100. Originally, the brush size slider only allowed users to select a value between 1 and 30. I changed the maximum value to 100 so users can draw with thicker brush strokes.
+I changed the maximum brush size from 30 to 100. Before, users could only adjust the brush size from 1 to 30. Now, they can make the brush bigger or smaller depending on what they need when drawing.
 
 **Original Code:**
 
-
-![Snippet of the original code:](Screenshots/old_brush_range.png)
-
-
-To increase the brush size range, I simply changed the `to` value from `30` to `100`.
-new_brush_range.png
+![Snippet of the original code](Screenshots/old_brush_range.png)
 
 **Updated Code:**
 
+I changed the `to` value from `30` to `100` to increase the maximum brush size.
 
-![Updated code:](Screenshots/new_brush_range.png)
-
+![Updated Code](Screenshots/new_brush_range.png)
 
 **Result:**
 
-![Result:](Screenshots/Result.png)
+![Result](Screenshots/Result.png)
 
+---
 
 ### ✓ Undo Button
 
-I added an Undo button so that users can reverse their most recent drawing action. This feature was not available in the original application. With this improvement, users can easily undo a drawing if they make a mistake without having to clear the entire canvas.
+I added an Undo button so users can go back if they make a mistake while drawing. Before, there was no Undo feature, so users couldn't easily bring back their previous drawing after making changes.
 
 **Code:**
 
 ![Undo Code](Screenshots/undo_code.png)
 
-
 **Result:**
 
 ![Undo Button Result](Screenshots/Undo_button.png)
 
+---
+
 ### ✓ Filled Shapes
 
-I added a feature that allows users to create filled shapes instead of drawing only their outlines. Users can now draw solid rectangles and ovals, making the drawing application more useful and flexible.
+I added a Fill Shapes option that allows users to fill rectangles, ovals, and triangles with color. Before, the shapes could only be drawn with outlines. Now, users can choose whether they want their shapes filled or not.
 
 **Fill Code:**
 
@@ -56,10 +52,11 @@ I added a feature that allows users to create filled shapes instead of drawing o
 
 ![Filled Shapes Result](Screenshots/fill_function.png)
 
+---
 
 ### ✓ Triangle Tool
 
-I added a Triangle Tool that allows users to draw triangle shapes on the canvas. Users can select the Triangle button and drag their mouse to create a triangle. This gives users another shape option aside from lines, rectangles, and ovals.
+I added a Triangle Tool so users can draw triangles on the canvas. They just need to select the Triangle button and drag their mouse to create the shape. Before, the available shapes were only line, rectangle, and oval.
 
 **Code:**
 
@@ -69,11 +66,11 @@ I added a Triangle Tool that allows users to draw triangle shapes on the canvas.
 
 ![Triangle Tool Result](Screenshots/triangle_result.png)
 
+---
+
 ### ✓ Confirm Before Clearing
 
-**Example:**
-
-I improved the existing Clear function by adding a confirmation dialog before removing the drawing. In the original application, clicking the Clear button immediately erased everything on the canvas. I added a confirmation message asking users if they really want to clear their drawing. This helps prevent accidental deletion.
+I updated the existing Clear function by adding a confirmation message. Before, clicking the Clear button would immediately erase everything on the canvas. Now, a message will appear asking the user if they really want to clear their drawing. This helps avoid accidentally deleting their work.
 
 **Original Code:**
 
@@ -87,10 +84,11 @@ I improved the existing Clear function by adding a confirmation dialog before re
 
 ![Clear Confirmation Result](Screenshots/clear_confirmation.png)
 
+---
 
 ### ✓ Quick Colors
 
-I added Quick Colors buttons to make color selection easier and faster. In the original application, users had to click the Choose Color button and select a color from the color picker. With this improvement, users can now select commonly used colors directly from the toolbar, such as Black, Red, Blue, Green, Yellow, and Purple.
+I added Quick Colors buttons to make choosing colors easier. Before, users had to click Choose Color and select a color from the color picker. Now, they can simply click a color button on the toolbar to choose Black, Red, Blue, Green, Yellow, or Purple.
 
 **Updated Code:**
 
