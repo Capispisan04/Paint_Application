@@ -55,3 +55,18 @@ I added a feature that allows users to create filled shapes instead of drawing o
 **Result:**
 
 ![Filled Shapes Result](Screenshots/fill_function.png)
+
+
+### ✓ Triangle Tool
+
+**Example:**
+
+I added a Triangle Tool that allows users to draw triangle shapes on the canvas. Users can select the Triangle button and drag their mouse to create a triangle. This gives users another shape option aside from lines, rectangles, and ovals.
+
+**Code:**
+
+![Triangle Tool Code](Screenshots/new_triangle_tool.png)
+
+**Result:**
+
+![Triangle Tool Result](Screenshots/triangle_tool_result.png)
