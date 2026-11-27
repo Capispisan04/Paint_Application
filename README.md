@@ -1,8 +1,23 @@
 # Paint_Application
 
-## Description
+Name: Edito T. Capispisan Jr.
+Section: BSINFOTECH SE 3-A
+
+# Features Implemented
+
+1. Bigger Brush Range – Increased the maximum brush size from 30 to 100.
+2. Undo Button – Allows users to undo their most recent drawing action.
+3. Filled Shapes – Allows users to fill rectangles, ovals, and triangles with color.
+4. Triangle Tool – Added a tool for drawing triangles on the canvas.
+5. Confirm Before Clearing – Displays a confirmation message before clearing the canvas.
+6. Quick Colors – Added six color buttons: Black, Red, Blue, Green, Yellow, and Purple.
+7. Customized UI Design – Improved the application's colors, buttons, and toolbar layout.
+8. Undo Keyboard Shortcut – Added Ctrl + Z as a shortcut for undoing the most recent action.
+
+# Description
 
 This is my Paint Application project made using Python, Tkinter, and Pillow. I used the source code provided as my starting point and modified the existing application by adding new features and improving its design.
+
 
 ## REQUIREMENTS COMPLETED
 
