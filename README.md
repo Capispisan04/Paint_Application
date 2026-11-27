@@ -81,8 +81,8 @@ I improved the existing Clear function by adding a confirmation dialog before re
 
 **Updated Code:**
 
-![Updated Clear Function](Screenshots/new_clear_confirmation.png)
+![Updated Clear Function](Screenshots/clear_code.png)
 
 **Result:**
 
-![Clear Confirmation Result](Screenshots/clear_confirmation_result.png)
+![Clear Confirmation Result](Screenshots/clear_confirmation.png)
