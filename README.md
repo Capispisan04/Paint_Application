@@ -68,3 +68,21 @@ I added a Triangle Tool that allows users to draw triangle shapes on the canvas.
 **Result:**
 
 ![Triangle Tool Result](Screenshots/triangle_result.png)
+
+### ✓ Confirm Before Clearing
+
+**Example:**
+
+I improved the existing Clear function by adding a confirmation dialog before removing the drawing. In the original application, clicking the Clear button immediately erased everything on the canvas. I added a confirmation message asking users if they really want to clear their drawing. This helps prevent accidental deletion.
+
+**Original Code:**
+
+![Original Clear Function](Screenshots/old_clear.png)
+
+**Updated Code:**
+
+![Updated Clear Function](Screenshots/new_clear_confirmation.png)
+
+**Result:**
+
+![Clear Confirmation Result](Screenshots/clear_confirmation_result.png)
