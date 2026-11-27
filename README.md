@@ -18,4 +18,5 @@ new_brush_range.png
 
 **Result:**
 
-[Insert screenshot of your application showing the brush size slider at 100 and a thick brush stroke.]
+![Result:](Screenshots/result.png)
+
