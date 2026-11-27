@@ -44,3 +44,14 @@ I added an Undo button so that users can reverse their most recent drawing actio
 
 ![Undo Button Result](Screenshots/Undo_button.png)
 
+### ✓ Filled Shapes
+
+I added a feature that allows users to create filled shapes instead of drawing only their outlines. Users can now draw solid rectangles and ovals, making the drawing application more useful and flexible.
+
+**Fill Code:**
+
+![Filled Shapes Code](Screenshots/new_filled_shapes.png)
+
+**Result:**
+
+![Filled Shapes Result](Screenshots/filled_shapes_result.png)
