@@ -4,7 +4,7 @@
 ## REQUIREMENTS COMPLETED:
 
 Whole UI Design:
-![Whole code:](Screenshots/Screenshot 2026-11-27 015557.png)
+![Whole Code](Screenshots/Screenshot%202026-11-27%20015557.png)
 
 
 ### ✓ Bigger Brush Range
