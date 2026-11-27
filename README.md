@@ -42,5 +42,5 @@ I added an Undo button so that users can reverse their most recent drawing actio
 
 **Result:**
 
-![Undo Button Result](Screenshots/undo_button.png)
+![Undo Button Result](Screenshots/Undo_button.png)
 
