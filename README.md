@@ -30,3 +30,17 @@ Updated Code:
 
 ![Result:](Screenshots/Result.png)
 
+
+### ✓ Undo Button
+
+I added an Undo button so that users can reverse their most recent drawing action. This feature was not available in the original application. With this improvement, users can easily undo a drawing if they make a mistake without having to clear the entire canvas.
+
+**Code:**
+
+[Insert screenshot of the new Undo implementation here]
+
+
+**Result:**
+
+![Undo Button Result](Screenshots/undo_result.png)
+
